@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+Gemfile.lock
+.frontmatter/database/mediaDb.json
+Gemfile.lock
+frontmatter.json
+.vscode/settings.json

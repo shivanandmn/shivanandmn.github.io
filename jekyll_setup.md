@@ -27,4 +27,11 @@ jekyll new --skip-bundle --force .
 ## then run 
 ```bash
 bundle install
-git ```
+```
+
+
+## Trouble shooting
+
+- jekyll higher version doesn't match with 228 github-pages version, it is reduced `gem "jekyll", "~> 3.9.3"`
+- this might also resolved issue `gem "webrick"`, add this in Gemfile
+- also added `gem "faraday-retry"` this to retry
