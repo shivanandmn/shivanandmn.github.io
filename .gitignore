@@ -6,5 +6,4 @@ vendor
 Gemfile.lock
 .frontmatter/database/mediaDb.json
 Gemfile.lock
-frontmatter.json
 .vscode/settings.json

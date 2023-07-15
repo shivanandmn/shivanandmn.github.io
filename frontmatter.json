@@ -1,0 +1,85 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "name": "relatedPosts",
+          "type": "list"
+        },
+        {
+          "name": "featuredImage",
+          "type": "image"
+        },
+        {
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "slug",
+          "name": "slug",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "jekyll",
+  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "_site",
+      "path": "[[workspace]]/_site"
+    },
+    {
+      "title": "_posts",
+      "path": "[[workspace]]/_posts"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "freelance-projects",
+    "iot",
+    "open-source",
+    "paper-implementation"
+  ],
+  "frontMatter.taxonomy.categories": [
+    " ",
+    "a",
+    "d",
+    "e",
+    "j",
+    "k",
+    "l",
+    "p",
+    "t",
+    "u",
+    "y"
+  ]
+}
