@@ -13,6 +13,8 @@ draft: true
 
 In this project, I utilized the powerful forecasting library FBProphet to analyze and predict trends in the Indian stock market. By leveraging FBProphet's advanced time series analysis capabilities, I aimed to uncover valuable insights and make informed predictions.
 
+
+
 To streamline the usage of FBProphet for other analysts and researchers, I developed a Python package and published it on the Python Package Index (PIP). This package provides a convenient interface for accessing FBProphet's functionality and enables smooth integration into existing analysis workflows.
 
 Throughout my analysis, I leveraged a comprehensive dataset consisting of historical stock market data sourced from reputable financial databases. This dataset allowed me to capture the intricacies of the Indian stock market and explore various factors influencing stock prices.
