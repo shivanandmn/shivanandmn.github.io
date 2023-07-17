@@ -5,6 +5,7 @@ tags:
 ---
 
 <div class="posts">
+  <h1>Projects & Experiments</h1><br/>
   {% for post in site.posts %}
     <article class="post">
 

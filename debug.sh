@@ -1,1 +1,2 @@
-bundle exec jekyll serve --no-watch --livereload
+bundle exec jekyll serve  ##--livereload
+#--no-watch
