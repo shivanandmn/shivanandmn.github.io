@@ -11,7 +11,10 @@ slug: ""
 ---
 
 ![](/assets/from-kaggle-to-career-how-ai-projects-propelled-my-journey/first_job_feature.png)
+
 I couldn't sit quietly on my idea for long; the urge to take action grew stronger with each passing day. My mind was fixated on conducting research in Edutech and implementing a more advanced level of personalization than what currently existed. Despite the exciting AI journey that lay ahead, my primary focus was on obtaining a suitable dataset to kickstart my work on personalization. That's when I stumbled upon a Kaggle competition featuring RIIID's dataset, and I knew it was the perfect opportunity to get started.
+
+
 
 During the early hours, around 4 o'clock in the morning, I found myself in my favorite tranquil bakery, sipping tea and scrolling through social feeds as I often did. As I stumbled upon the Kaggle competition and explored its details, an overwhelming surge of excitement washed over me. Without hesitation, I decided to delve deep into the dataset, determined to craft an algorithm that would push its boundaries and bring about substantial improvements.
 
