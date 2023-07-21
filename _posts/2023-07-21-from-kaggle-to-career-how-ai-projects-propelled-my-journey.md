@@ -7,7 +7,7 @@ relatedPosts: []
 featuredImage: ""
 tags: []
 categories: []
-slug: ""
+slug: kaggle-career-ai-projects-propelled-journey
 ---
 
 ![](/assets/from-kaggle-to-career-how-ai-projects-propelled-my-journey/first_job_feature.png)
