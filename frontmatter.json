@@ -64,10 +64,12 @@
     }
   ],
   "frontMatter.taxonomy.tags": [
+    "career",
     "freelance-projects",
     "iot",
     "open-source",
-    "paper-implementation"
+    "paper-implementation",
+    "personal"
   ],
   "frontMatter.taxonomy.categories": [
     " ",

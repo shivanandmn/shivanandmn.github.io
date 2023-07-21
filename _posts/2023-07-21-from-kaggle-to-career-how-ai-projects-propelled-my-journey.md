@@ -5,7 +5,9 @@ date: 2023-07-21T01:39:35.495Z
 preview: ""
 relatedPosts: []
 featuredImage: ""
-tags: []
+tags:
+  - career
+  - personal
 categories: []
 slug: kaggle-career-ai-projects-propelled-journey
 ---
